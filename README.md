@@ -1,3 +1,4 @@
+![Screenshot 2023-06-26 222911](https://github.com/Manu839/login_template_with_validations/assets/124304448/7de717f9-4d6e-4342-843a-ed19c7e50b4b)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
